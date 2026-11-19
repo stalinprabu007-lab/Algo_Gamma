@@ -1,0 +1,6 @@
+{
+  "name": "GammaDesk",
+  "description": "Live algorithmic and discretionary F&O trading terminal with Dhan, Zerodha Kite, and Angel One API integration, paper trading, Python strategy engine, backtesting, and portfolio analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
